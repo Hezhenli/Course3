@@ -9,7 +9,7 @@ import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
 import java.util.List;
 
-//这是一个基础Dao类
+//这是一个基础Dao类，测试
 public class BaseDao<T> implements IBaseDao<T> {
     private Class<T> clz;
     public BaseDao() {

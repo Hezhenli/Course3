@@ -2,7 +2,6 @@ package dao.impl;
 
 import dao.IBaseDao;
 import util.JPAUtil;
-
 import javax.persistence.EntityManager;
 import javax.persistence.Query;
 import java.io.Serializable;

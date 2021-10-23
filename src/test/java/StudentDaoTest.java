@@ -15,6 +15,7 @@ public class StudentDaoTest {
         sDao.save(s1);
     }
 
+
     @Test
     public void delete(){
         sDao.delete("20101112334");

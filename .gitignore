@@ -1,2 +1,11 @@
 # Project exclude paths
 /target/
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/jpa-buddy.xml
+/.jpb/jpb-settings.xml
+/.idea/misc.xml
+/src/main/resources/META-INF/persistence.xml
+/.idea/runConfigurations.xml
+/.idea/vcs.xml
